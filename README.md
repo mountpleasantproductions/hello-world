@@ -1,2 +1,4 @@
 # hello-world
-This is a test
+
+Hi Humans
+This is for me to learn how to build a website.
